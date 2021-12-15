@@ -18,6 +18,7 @@ class ViewController: UIViewController {
 =======
         print("feature commit")
 >>>>>>> feature_branch
+        print("develop rebase commit")
     }
 
 
